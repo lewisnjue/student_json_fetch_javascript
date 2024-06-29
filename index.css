@@ -1,0 +1,18 @@
+.input{
+    position: fixed;
+    bottom: 1%;
+    width: 100%;
+
+}
+.input input{
+    width: 70%;
+}
+
+table , thead, th , tr , td {
+    border: 1px solid green;
+    border-collapse: collapse;
+}
+
+table {
+    margin: auto;
+}
